@@ -1,5 +1,8 @@
 # Willberries - Training project
-Выполнила проект - Рыжкова Виктория
+Выполнила проект - Рыжкова Виктория 
+
+https://vryzhkova.github.io/Willberries/
+
 ## В проекте использовались языки:
 - HTML
 - CSS
